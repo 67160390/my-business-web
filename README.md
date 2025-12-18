@@ -30,7 +30,7 @@ my-business-web/
 
 ---
 
-## All pages screenshots
+## All pages screenshot
 
 1. [Homepage](/index.html)
 
